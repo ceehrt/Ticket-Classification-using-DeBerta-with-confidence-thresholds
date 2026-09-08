@@ -32,6 +32,9 @@ DeBERTa Classification
 Prediction + Confidence Score
     ↓
 Confidence Threshold
+    ↓
+Accept / Review
+```
 
 ## Technologies
 
